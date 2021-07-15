@@ -1,0 +1,26 @@
+.login-form {
+  width: 340px;
+  background: rgb(191, 195, 196);
+  text-align: center;
+}
+
+.val-input {
+  width: 250px;
+  height: 30px;
+  margin: 10px 40px 0 40px;
+}
+
+.inp-label {
+  padding-top: 30px;
+}
+
+.btn-input {
+  width: 150px;
+  height: 30px;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+.error{
+    color: red;
+}
